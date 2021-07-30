@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGzyA8JSwKPHKDvrSyrCQtgh/vSadKbdxbfCafMAFVasIuZxEX3sO8y4RJN0pc+aOaOG8ajw5GL4PaWfAu0tAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johan\\source\\repos\\Test\\Money\\Money.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
